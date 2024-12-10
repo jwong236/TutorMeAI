@@ -23,7 +23,10 @@ To run the application locally, follow these steps:
 git clone https://github.com/jwong236/TutorMeAI
 ```
 
-### 2. Backend Setup
+### 2. Prerequisites
+   Python 3.12
+
+### 3. Backend Setup
 
 1. Navigate to the backend directory:
 
@@ -40,7 +43,7 @@ git clone https://github.com/jwong236/TutorMeAI
    flask run
    ```
 
-### 3. Frontend Setup
+### 4. Frontend Setup
 
 1. Open new terminal (If needed)
 2. Navigate to the frontend directory:

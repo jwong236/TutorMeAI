@@ -1,2 +1,10 @@
 flask
+flask-cors
+peft
+PyPDF2
+faiss-cpu
+numpy
 gunicorn
+torch
+transformers
+datasets
