@@ -2,17 +2,6 @@
 
 ## Features
 
-## Screenshots and Demo
-
-Here’s a quick look at EMAT in action:
-
-### Full Page Screenshot
-![Fullpage Screenshot](https://github.com/user-attachments/assets/71df56a5-4580-4767-be3a-c55a682cf5d8)
-
-### Interactive Demo
-
-### Live Demo
-
 ## Installation
 
 To run the application locally, follow these steps:
@@ -24,7 +13,8 @@ git clone https://github.com/jwong236/TutorMeAI
 ```
 
 ### 2. Prerequisites
-   Python 3.12
+
+Python 3.12
 
 ### 3. Backend Setup
 
